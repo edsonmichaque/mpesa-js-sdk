@@ -1,4 +1,6 @@
 # M-Pesa SDK for JavaScript
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fedsonmichaque%2Fmpesa-js-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fedsonmichaque%2Fmpesa-js-sdk?ref=badge_shield)
+
 
 M-Pesa SDK for JavaScript is an unofficial library aiming to help businesses integrating every [M-Pesa](https://developer.mpesa.vm.co.mz) operations to their JavaScript applications.
 
@@ -400,3 +402,6 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fedsonmichaque%2Fmpesa-js-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fedsonmichaque%2Fmpesa-js-sdk?ref=badge_large)
